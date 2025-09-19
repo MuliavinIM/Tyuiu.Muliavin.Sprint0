@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Muliavin.Sprint0.Task
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{1FC130D0-28EB-44D3-B318-F257C71B875A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.Muliavin.Sprint0.Task1.V0", "Tyuiu.Muliavin.Sprint0.Task1.V0\Tyuiu.Muliavin.Sprint0.Task1.V0.csproj", "{F49E6161-CE93-4F99-B454-F07262789EFC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.MuliavinIM.Sprint0.Task1.V0", "Tyuiu.Muliavin.Sprint0.Task1.V0\Tyuiu.MuliavinIM.Sprint0.Task1.V0.csproj", "{F49E6161-CE93-4F99-B454-F07262789EFC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
