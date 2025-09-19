@@ -5,7 +5,7 @@
         Console.WriteLine("Hello, World!");
         string name = "Иван";
         int age = 17;
-        Console.WriteLine("Hello my name is " + name +"");
+        Console.WriteLine("Здравствуйте меня зовут " + name + " мне " + age + " лет");
         Console.ReadKey();
     }
 }
